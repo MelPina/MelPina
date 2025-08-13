@@ -1,39 +1,20 @@
 
-# 👩‍💻 Mélida Piña
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) 
-
-[![Location](https://img.shields.io/badge/Location-Santo%20Domingo%2C%20RD-blue?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
+# 👩‍💻 Mel Piña
 ---
-
 ## Sobre mí
 Soy **Desarrolladora de Software** apasionada por la **automatización**, la **calidad** y el **impacto social** de la tecnología.  
 
 Me encanta crear soluciones eficientes, escalables y fáciles de mantener. Creo firmemente en el aprendizaje continuo y en liderar proyectos con responsabilidad, creatividad y visión de futuro.
 
  *"Donde otros ven código, yo veo oportunidades para transformar realidades."* – Mélida Piña
-
 ---
 
-## Stack Tecnológico
+##  Proyectos Destacados
 
-### 💻 Lenguajes
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-
-### 🖥️ Frameworks y Librerías
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Herramientas y Tecnologías
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+| Proyecto | Descripción | Repositorio |
+|----------|-------------|-------------|
+| **Gestión de Activos Fijos** | Sistema para gestión de activos. | [🔗 GitHub](https://github.com/MelPina/proyecto-gestion-activos-fijos) |
+| **Gestión Estudiantes** | Aplicación en C# para gestión académica estudiantil. | [🔗 GitHub](https://github.com/MelPina/GestionEstudiantes) |
+| **Integración Continua** | Práctica usando GitHub Actions y Surge.sh para deployment automático. | [🔗 GitHub](https://github.com/MelPina/-Integracion_continua_1er-Parcial) |
+| **CI/CD GitHub** | Ejercicio de DevOps con GitHub Actions para despliegue continuo. | [🔗 GitHub](https://github.com/MelPina/Practica_CI_CD_Github) |
+| **UNAPEC_SGMED** | Sistema de gestión para un dispensario médico. | [🔗 GitHub](https://github.com/MelPina/UNAPEC_SGMED) |
