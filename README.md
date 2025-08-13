@@ -1,12 +1,13 @@
 
 # 👩‍💻 Mel Piña
----
+
 ## Sobre mí
 Soy **Desarrolladora de Software** apasionada por la **automatización**, la **calidad** y el **impacto social** de la tecnología.  
 
 Me encanta crear soluciones eficientes, escalables y fáciles de mantener. Creo firmemente en el aprendizaje continuo y en liderar proyectos con responsabilidad, creatividad y visión de futuro.
 
  *"Donde otros ven código, yo veo oportunidades para transformar realidades."* – Mélida Piña
+
 ---
 
 ##  Proyectos Destacados
@@ -18,3 +19,5 @@ Me encanta crear soluciones eficientes, escalables y fáciles de mantener. Creo 
 | **Integración Continua** | Práctica usando GitHub Actions y Surge.sh para deployment automático. | [🔗 GitHub](https://github.com/MelPina/-Integracion_continua_1er-Parcial) |
 | **CI/CD GitHub** | Ejercicio de DevOps con GitHub Actions para despliegue continuo. | [🔗 GitHub](https://github.com/MelPina/Practica_CI_CD_Github) |
 | **UNAPEC_SGMED** | Sistema de gestión para un dispensario médico. | [🔗 GitHub](https://github.com/MelPina/UNAPEC_SGMED) |
+
+---
