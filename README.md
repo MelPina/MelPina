@@ -2,20 +2,21 @@
 # 👩‍💻 Mélida Piña
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmpa.59302@gmail.com)
+
 [![Location](https://img.shields.io/badge/Location-Santo%20Domingo%2C%20RD-blue?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy **Desarrolladora de Software** apasionada por la **automatización**, la **calidad** y el **impacto social** de la tecnología.  
+
 Me encanta crear soluciones eficientes, escalables y fáciles de mantener. Creo firmemente en el aprendizaje continuo y en liderar proyectos con responsabilidad, creatividad y visión de futuro.
 
-💡 *"Donde otros ven código, yo veo oportunidades para transformar realidades."* – Mélida Piña
+ *"Donde otros ven código, yo veo oportunidades para transformar realidades."* – Mélida Piña
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### 💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,7 +31,7 @@ Me encanta crear soluciones eficientes, escalables y fáciles de mantener. Creo 
 ### 🗄️ Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### ⚙️ Herramientas y Tecnologías
+### Herramientas y Tecnologías
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
